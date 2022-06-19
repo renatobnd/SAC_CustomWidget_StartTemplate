@@ -2,7 +2,7 @@
     let tmpl = document.createElement('template');
     tmpl.innerHTML = `
       <h1>
-      Hello World
+      Hello World Custom Widgets!
       </h1>
     `;
 
